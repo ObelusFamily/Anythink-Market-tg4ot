@@ -10,4 +10,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+To run, check out
+https://obelusfamily-anythink-market-tg4ot-g66vpjv59gvf574-3000.githubpreview.dev/api/ping
+and afterwards go to 
+https://obelusfamily-anythink-market-tg4ot-g66vpjv59gvf574-3001.githubpreview.dev/register
+
